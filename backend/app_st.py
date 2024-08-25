@@ -4,7 +4,8 @@ import requests
 from urllib.parse import quote
 
 # Define the endpoint of the FastAPI application
-endpoint = "https://miguel5458-creator--example-fastapi-app-fastapi-app-dev.modal.run/process_url/"
+endpoint = "https://miguel5458-creator--example-fastapi-app-fastapi-app.modal.run/process_url/"
+           
 
 # Set the title of the Streamlit application
 st.title("URL Processor")
