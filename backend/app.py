@@ -22,7 +22,7 @@ def process_data():
         encoded_url = quote(data_url, safe='')
 
         # Llamar al endpoint de FastAPI
-        fastapi_url = f"https://miguel5458-creator--example-fastapi-app-fastapi-app-dev.modal.run/process_url/?data_url={encoded_url}"
+        fastapi_url = f"https://miguel5458-creator--example-fastapi-app-fastapi-app.modal.run/process_url/?data_url={encoded_url}"
         response = requests.get(fastapi_url)
         response.raise_for_status()  # Asegúrate de que la solicitud fue exitosa
         response_data = response.json()

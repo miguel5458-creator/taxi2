@@ -1,9 +1,13 @@
-
-
+fastparquet
+requests
 scikit-learn
 pyarrow
 matplotlib
 seaborn
 Flask
 requests
-
+modal
+fastapi
+uvicorn
+pandas
+Flask      
