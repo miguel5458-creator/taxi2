@@ -9,26 +9,6 @@ Activa el entorno proyectogit:
 conda activate proyectogit
 
 
-Instalación de Paquetes
-
-Una vez activado el entorno, instala los siguientes paquetes necesarios para el proyecto:
-
-Instala pandas y scikit-learn:
-
-pip install pandas scikit-learn
-
-Instala pyarrow:
-
-pip install pyarrow
-
-Instala matplotlib:
-
-pip install matplotlib
-
-Instala seaborn para visualizaciones adicionales:
-
-pip install seaborn
-
 
 
 
