@@ -17,6 +17,10 @@ Ejecute modal con el siguiente comando
 
 modal deploy fastapi_app.py
 
+![image](https://github.com/user-attachments/assets/ba7cb959-9481-40b6-992a-92f534daa4cd)
+
+
+
 ![image](https://github.com/user-attachments/assets/0c006b24-051f-498d-bc70-a2912349834b)
 
 La url de la APP es 
