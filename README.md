@@ -1,3 +1,16 @@
+# Crea sesión en streamlit, seleccionar en la esquina superior derecha "Crear aplicación"
+
+![image](https://github.com/user-attachments/assets/57923cde-c0f8-4bc0-9f41-ab83419a6925)
+
+Elegir ya tengo una aplicación
+
+![image](https://github.com/user-attachments/assets/204a9f42-d915-4a15-b767-165227d4a4b4)
+
+Coloar repositorio del github backend/app_st.py y desplegar 
+
+![image](https://github.com/user-attachments/assets/fc4902de-131d-4141-a89d-c79aac8f7b74)
+
+
 
 Creación del Entorno Conda
 Crea un entorno Conda llamado proyectogit con Python 3.12:
