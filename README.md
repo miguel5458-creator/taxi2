@@ -10,6 +10,13 @@ conda activate proyectogit
 
 
 
+El archivo joblib esta alojado en google drive https://drive.google.com/drive/u/0/folders/12WYT8XNd3SnNbxOfVkNmszVXAWQCS678
+
+
+![image](https://github.com/user-attachments/assets/cce5fe33-49f1-4a15-bcb5-6313680f2f3f)
+
+
+
 
 
 
