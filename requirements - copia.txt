@@ -1,0 +1,9 @@
+
+
+scikit-learn
+pyarrow
+matplotlib
+seaborn
+Flask
+requests
+
