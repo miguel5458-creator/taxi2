@@ -29,6 +29,8 @@ https://miguel5458-creator--example-fastapi-app-fastapi-app.modal.run, el endpoi
 
 Puede probar la App desde el cmd con curl:
 
+![image](https://github.com/user-attachments/assets/8685faa9-aad4-42a5-a58b-e8c049b2fbe7)
+
 
 curl -X GET "https://miguel5458-creator--example-fastapi-app-fastapi-app.modal.run/process_url/?data_url=https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2020-01.parquet"
 
