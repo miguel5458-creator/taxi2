@@ -12,7 +12,7 @@ Coloar repositorio del github backend/app_st.py y desplegar
 
 
 
-Creación del Entorno Conda
+# Creación del Entorno Conda
 Crea un entorno Conda llamado proyectogit con Python 3.12:
 
 conda create --name proyectogit python=3.12
@@ -31,7 +31,7 @@ El archivo joblib esta alojado en google drive https://drive.google.com/drive/u/
 
 
 
-
+# modal
 
 Ejecute modal con el siguiente comando
 
@@ -42,6 +42,8 @@ modal deploy fastapi_app.py
 
 
 ![image](https://github.com/user-attachments/assets/0c006b24-051f-498d-bc70-a2912349834b)
+
+# ejecución Api
 
 La url de la APP es 
 
