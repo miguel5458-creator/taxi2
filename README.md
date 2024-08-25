@@ -60,6 +60,4 @@ y coloque la misma busqueda
  1. predictions: Valores de las predicciones
  2. f1_score: Valor F1
 
-![Uploading image.png…]()
-
 
