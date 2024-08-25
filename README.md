@@ -1,8 +1,7 @@
+Ejecute modal con el siguiente comando
 
-A continuación se detallan los entornos Conda disponibles en el sistema utilizado para este proyecto:
+modal deploy fastapi_app.py
 
-proyectogit              C:\Users\migue\anaconda3\envs\proyectogit
+![image](https://github.com/user-attachments/assets/0c006b24-051f-498d-bc70-a2912349834b)
 
-Para ejecutar el proyecto desde el entorno proyectogit, utiliza el siguiente comando en tu terminal:
 
-C:\Users\migue\anaconda3\envs\proyectogit\python.exe manage.py
