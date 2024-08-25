@@ -6,7 +6,7 @@ Elegir ya tengo una aplicación
 
 ![image](https://github.com/user-attachments/assets/204a9f42-d915-4a15-b767-165227d4a4b4)
 
-Coloar repositorio del github backend/app_st.py y desplegar 
+Colocar repositorio del github backend/app_st.py y desplegar 
 
 ![image](https://github.com/user-attachments/assets/fc4902de-131d-4141-a89d-c79aac8f7b74)
 
