@@ -10,7 +10,7 @@ Colocar repositorio del github backend/app_st.py y desplegar
 
 ![image](https://github.com/user-attachments/assets/fc4902de-131d-4141-a89d-c79aac8f7b74)
 
-
+La url de la aplicación es https://eszk4xdkz57nssjbfwb3ow.streamlit.app/
 
 # Creación del Entorno Conda
 Crea un entorno Conda llamado proyectogit con Python 3.12:
